@@ -1,0 +1,10 @@
+/Users/kanishktiwari/Downloads/Dev/projects/rusty-projects/grep/target/debug/deps/anstyle-c14111286f615625.rmeta: /Users/kanishktiwari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.5/src/lib.rs /Users/kanishktiwari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.5/src/macros.rs /Users/kanishktiwari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.5/src/color.rs /Users/kanishktiwari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.5/src/effect.rs /Users/kanishktiwari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.5/src/reset.rs /Users/kanishktiwari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.5/src/style.rs
+
+/Users/kanishktiwari/Downloads/Dev/projects/rusty-projects/grep/target/debug/deps/anstyle-c14111286f615625.d: /Users/kanishktiwari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.5/src/lib.rs /Users/kanishktiwari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.5/src/macros.rs /Users/kanishktiwari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.5/src/color.rs /Users/kanishktiwari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.5/src/effect.rs /Users/kanishktiwari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.5/src/reset.rs /Users/kanishktiwari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.5/src/style.rs
+
+/Users/kanishktiwari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.5/src/lib.rs:
+/Users/kanishktiwari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.5/src/macros.rs:
+/Users/kanishktiwari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.5/src/color.rs:
+/Users/kanishktiwari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.5/src/effect.rs:
+/Users/kanishktiwari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.5/src/reset.rs:
+/Users/kanishktiwari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.5/src/style.rs:
